@@ -1,0 +1,55 @@
+%%fit2box * *
+
+% header layout
+%%partsfont Helvetica-Bold 15 box
+%%gchordfont Helvetica-BoldItalic 10
+%%titleformat R-Q- T C1
+%%composerspace 0
+%%musicspace 0
+%%partsspace 0
+%%titlespace 0
+%%topspace 0
+
+% music visual settings
+%%maxshrink 0.91
+%%staffscale 1.2
+%%leftmargin 10
+%%rightmargin 10
+
+% music notation preferences
+%%cancelkey 0
+%%keywarn 0
+
+% playback options
+%%MIDI gchord fc2cfhcf
+%%MIDI gchordon
+%%MIDI chordprog 24
+%%MIDI program 73
+%%MIDI bassprog 25
+
+X:1
+%%topmargin 0
+%%botmargin 0
+T:Seu Louren\cco no Vinho
+C: Pixinguinha/Benedito Lacerda
+P:AABBACCA
+M:2/4
+L:1/16
+Q:1/4=92
+R:Choro
+K:C clef=treble
+P:A 
+E Gcec || "G7"df2d BAGF | "C"E2zE Gcec | "G7"df2d BAGF | "C"EGce dcBA |
+"E7"^GBdf edcB | "Am"A^GAB cBA=G | "D7"^F2zd cA^FD | "G7"A3G zA^GA |
+"A7"_BA^GA "A7/C#"BA^GA | "Dm"_BA^GA BA^GA | "A7"d^c^Bc dcBc | "Dm"ed^cd edf2 |
+"Fm6"z_afd c_AFD | "C/E"GEGc "Ab7"_A_EAc | "Dm"AFAc "G7"BGBd | "C"c2 x  :
+P:B
+[K: Am] B dcBA || "E7/G#"^GE^DE GEDE | "Am"AE^DE cEDE | "E7/B"B2^GB dfed | "A7/C#"^cege cAGE |
+"Dm"D2e2 d2z2 | "Am/E"z2d2 c2z2 | "B7/D#"zcBc BcBc | "E7"BcBc BcBc |
+"G7"Beda gfdB | "C"dcfe dcBA | "E7/G#"^G2z2 EGBd | "A7"^ceg_b agfe |
+"Dm"gfdB AFDB, | "Am"z2e2 "F7"z2f2 | "Bb"z2 _b2 "E7"z2e2 | "Am"za2 :
+P:C
+[K: F] c Bcdc || "F"f3A ^GABA | "F/A"c3F EFGF | "F"AC=B,C FAce | "Gm"dcBG E2z2 |
+"A7"zage ^c_BAG | "Dm"FAd^c edA=B | "A"^cecA "E7/G#"=BdB^G | "A"Az3 z4 |
+"D7/F#"z2c2 B2A2 | "Gm"D3A "G7/B"G4 | "C7"z2B2 A2G2 | "F"c2Ac "Db"ffff |
+"Ddim"z^G=Bd "Bbm6/Db"ffff | "F"zagf edc=B | "Gm"_Bc^cd "C7"AG=cA | "F"F3 :
