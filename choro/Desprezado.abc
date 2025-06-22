@@ -1,14 +1,6 @@
-%%propagate-accidentals octave
-%%partsfont Times-BoldItalic 20 box
-%%topmargin 0
-%%botmargin 0
-%%leftmargin 0
-%%rightmargin 0
-
 X:1
 T:Desprezado
 C: Pixinguinha
-%%MIDI gchord fc2cfc2c
 M:2/4
 L:1/16
 P:AABBACCA

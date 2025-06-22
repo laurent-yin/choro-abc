@@ -1,30 +1,5 @@
-% header layout
-%%partsfont Helvetica-Bold 15 box
-%%gchordfont Helvetica-BoldItalic 10
-%%titleformat R-Q- T C1
-%%composerspace 0
-%%musicspace 0
-%%partsspace 0
-%%titlespace 0
-%%topspace 0
-
-% music visual settings
-%%maxshrink 0.91
-%%staffscale 1.2
-%%leftmargin 10
-%%rightmargin 10
-%%fit2box
-
-% music notation preferences
-%%cancelkey 0
-%%keywarn 0
-
-% playback options
 %%MIDI gchord fcccfccc
-%%MIDI gchordon
-%%MIDI chordprog 24
-%%MIDI program 73
-%%MIDI bassprog 25
+%%gchordon
 
 X:1
 %%topmargin 0
@@ -43,7 +18,7 @@ z/A/^G/A/=B/^c/d/e/ || "Dm"f4- "Dm/C"fedf- | "B°"f4- "Gm/Bb"fed^c- | "A7"(3c2E2
 "Dm"[DAf]4- "Dm/C"[DAf]edf- | "B°"f4- "Gm/Bb"fed^c- | "A7"(3c2E2F2 "A/G"(3G2=c2B2 | "D7/F#"A3[C^FA]- "D7"[C^FA]BA [Dd]- |
 "Gm/Bb"[Dd]4 "E7"^Gc=Be- | "Am"e3[Dd]- "Gm6"[Dd]BGF- | "Dm/A"FG^GA- "A7"AEFD- | "Dm"D4 ||
 P:B
-(3A2c2B2 ||  "A7/C#"(3^C2D2^D2 "A/G"(3E2=c2B2 | "Dm/F"A4 (3d2f2_e2 | "D7/F#"(3^F2G2^G2 "D7"(3A2=f2_e2 | "Gm"d3d- d/=e/d/^c/d/g- |
+(3A2c2B2 ||  "A7/C#"(3^C2D2^D2 "A/G"(3E2=c2B2 | "Dm/F"A4 (3d2f2_e2 | "D7/F#"(3^F2G2^G2 "D7"(3A2=f2_e2 | "Gm"d3d- d/d/=e/d/^c/d/g- |
 "Gm6/Bb"(3g2f2e2 "Em7b5"dcB[FB]- | "Dm/F"[FB]2AG FED^G,- | "E7/G#"(3^G,2[^G,E]2[A,^F]2 "E7"[=B,^G]A=B[=G^c]- | "A7"[G^c]3A =c=B_BA |
 "A7/C#"(3^C2D2^D2 "A/G"(3E2=c2B2 | "Dm/F"A4 (3d2f2_e2 | "D7/F#"(3^F2G2^G2 "D7"(3A2=f2_e2 | "Gm"d4- d/d/=e/d/^c/d/g- |
 "Gm6/Bb"g2fe "Em7b5"(3d2c2B2 | "Dm/F"B2AG FEDE- | "Em7b5"(3E2F2G2 "A7"(3A2E2F2 | "Dm"D4 ||

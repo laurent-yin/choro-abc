@@ -1,25 +1,3 @@
-%%fit2box * *
-
-% header layout
-%%partsfont Helvetica-Bold 15 box
-%%gchordfont Helvetica-BoldItalic 10
-%%titleformat R-Q- T C1
-%%composerspace 0
-%%musicspace 0
-%%partsspace 0
-%%titlespace 0
-%%topspace 0
-
-% music visual settings
-%%maxshrink 0.91
-%%staffscale 1.2
-%%leftmargin 10
-%%rightmargin 10
-
-% music notation preferences
-%%cancelkey 0
-%%keywarn 0
-
 % playback options
 %%MIDI gchord fc2cfhcf
 %%MIDI gchordon
