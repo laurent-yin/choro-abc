@@ -1,9 +1,4 @@
-% playback options
 %%MIDI gchord fc2cfhcf
-%%MIDI gchordon
-%%MIDI chordprog 24
-%%MIDI program 73
-%%MIDI bassprog 25
 
 X:1
 %%topmargin 0
