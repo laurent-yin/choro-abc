@@ -1,0 +1,25 @@
+X:1
+T: Joaquim Virou Padre
+C: Pixinguinha
+M:2/4
+L:1/16
+P:AABBACCA
+Q:1/4=76
+R:Choro
+K:G clef=treble
+P:A
+ %%MIDI gchordbars 2
+ %%MIDI gchord c3cc4cc2cc4
+"G"GB2d g4 | "F#"f^c2^A F4 | "F"=FA2c =f4 | "E"eB2^G E4 |
+"Eb"_EG2_B _e4 |1 "G/D"dB2G DB2^A | "A7"BA2G EF2G | "D7"BA2F E2D2 :|
+|2 "G/D"dB2G D4 | "Am"EF2G "D7"AF2D | "G"G4 z4 |]
+P:B
+[K: D]"D"dF2A dc2d | "Eb"_eG2_B e4 | "A7"dc2B AG2F | "D"BA2F A4 |
+"D"dF2A d4 | "A/C#"cA2c ee2^e | "E7"fe2d Bc2d | "A7"eE2F G4 |
+"Eb"_eG2_B e4 | "E"e^G2B e4 | "F"=fA2=c f4 | "F#"f^A2c f4 |
+"G"eGBd "Gm6/Bb"_B4 | "D/A"AFAd "D"A4 | "Em"Bc2d "A7"ec2A | "D"d4 z4 |]
+P:C
+[K: C]"C"cE2G c4 | "Eb°"c_E2_G c4 | "Dm"BA2G "G7"FE2D | "C"AG2E G4 |
+"C"cE2G c4 | "G"BD2G B4 | "D7"^FG2^G AB2c | "G7"dB2A GA2B |
+"C"cE2G c4 | "B7"B^D2^F B4 | "Bb7"_BD2F B4 | "A7"A^C2E A4 |
+"Ab7"_ac2_e a4 | "C"gc2e g4 | "Dm"AB2c "G7"dB2G | "C"c4 z4 |]

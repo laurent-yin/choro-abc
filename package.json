@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/laurent-yin/choro-abc#readme",
   "devDependencies": {
-    "abctools": "^0.1.8"
+    "abctools": "^0.1.9"
   }
 }
