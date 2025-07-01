@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of Choro themes notated using the ABC music notation. The ABC directives defined in .abcconfig files are applied to all .abc files in the folder and children folders, and can be overridden by other .abcconfig files.",
   "scripts": {
-    "build": "abcbuild source abc"
+    "build": "abctools export source/ abc/"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/laurent-yin/choro-abc#readme",
   "devDependencies": {
-    "abctools": "^0.1.9"
+    "abctools": "^0.1.10"
   }
 }
