@@ -36,7 +36,7 @@ abctools export source/ abc/
 
 ### Editing and Visualization
 
-You can use the [vscode-abc-music-editor](https://github.com/laurent-yin/vscode-abc-music-editor) extension in VS Code to edit, visualize, and play the Raw ABC files or the ABC files directly. This extension also supports `.abcconfig` files.
+You can use the [vscode-abc-music-editor](https://marketplace.visualstudio.com/items?itemName=laurent-yin.abc-to-svg) extension in VS Code to edit, visualize, and play the Raw ABC files or the ABC files directly. This extension also supports `.abcconfig` files.
 
 ---
 
