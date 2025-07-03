@@ -8,8 +8,8 @@ Q:1/4=76
 R:Choro
 K:G clef=treble
 P:A
- %%MIDI gchordbars 2
- %%MIDI gchord c3cc4cc2cc4
+%%MIDI gchordbars 2
+%%MIDI gchord c3cc4cc2cc4
 "G"GB2d g4 | "F#"f^c2^A F4 | "F"=FA2c =f4 | "E"eB2^G E4 |
 "Eb"_EG2_B _e4 |1 "G/D"dB2G DB2^A | "A7"BA2G EF2G | "D7"BA2F E2D2 :|
 |2 "G/D"dB2G D4 | "Am"EF2G "D7"AF2D | "G"G4 z4 |]
